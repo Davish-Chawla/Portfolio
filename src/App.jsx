@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./components/Home";
 import About from "./components/about";
 import Contact from "./components/Contact";
-import Portfolio from "./components/Project";
+import Portfolio from "./components/project";
 import Footer from "./components/Footer";
 
 function LandingPage() {
